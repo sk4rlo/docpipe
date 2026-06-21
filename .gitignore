@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging output
+*.egg-info/
+build/
+dist/
+
+# Local environment files
+.env
+.env.*
+
+# Editor and OS noise
+.DS_Store
+.vscode/
+.idea/
+
+# Local test documents and generated outputs
+documents
+docpipe-plan-v0.1.md
+AGENTS.md
